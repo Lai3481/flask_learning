@@ -1,0 +1,7 @@
+# 关系型
+    Sqlite   Mysql Oracle .......
+#非关系型
+    Redis   Mongodb
+
+
+    key  : value
